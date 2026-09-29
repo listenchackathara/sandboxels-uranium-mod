@@ -1,4 +1,3 @@
-// Ensure elements object exists
 if (!window.elements) { window.elements = {}; }
 
 elements.enriched_uranium = {
